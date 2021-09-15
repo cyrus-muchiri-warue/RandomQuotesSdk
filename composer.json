@@ -1,0 +1,12 @@
+{
+    "name": "boomerang/random-quotes-sdk",
+    "description": "This is a simple quotes generator sdk;",
+    "type": "library",
+    "authors": [
+        {
+            "name": "cyrus-muchiri-warue",
+            "email": "cyrus5078@gmail.com"
+        }
+    ],
+    "require": {}
+}
