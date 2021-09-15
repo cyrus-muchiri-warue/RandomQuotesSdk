@@ -1,8 +1,8 @@
 <?php
 require "./src/RandomQuotes.php";
-use App\RandomQuoteSdk\RandomQuoteSdk;
+use app\RandomQuoteSdk\RandomQuoteSdk;
 
 
 
-print_r(RandomQuoteSdk::readJsonData());
+RandomQuoteSdk::readJsonData();
 

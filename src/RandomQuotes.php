@@ -1,5 +1,5 @@
 <?php
-namespace App\RandomQuoteSdk;
+namespace RandomQuoteSdk;
 class RandomQuoteSdk{
     
     public static function readJsonData()
