@@ -1,5 +1,5 @@
 {
-    "name": "boomerang/random-quotes-sdk",
+    "name": "Nevon/random-quotes-sdk",
     "description": "This is a simple quotes generator sdk;",
     "type": "library",
     "authors": [
@@ -8,5 +8,10 @@
             "email": "cyrus5078@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "RandomQuoteSdk\\":"src"
+        }
+    },
     "require": {}
 }
