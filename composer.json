@@ -1,5 +1,5 @@
 {
-    "name": "Nevon/random-quotes-sdk",
+    "name": "com.bomerang/random-quotes-sdk",
     "description": "This is a simple quotes generator sdk;",
     "type": "library",
     "authors": [
